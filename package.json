@@ -1,0 +1,50 @@
+{
+  "_from": "portal-fe-devServer@^1.0.0",
+  "_id": "portal-fe-devServer@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-s3I8cIOIzT14Ztb85iNrgnjBszc=",
+  "_location": "/portal-fe-devServer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "portal-fe-devServer@^1.0.0",
+    "name": "portal-fe-devServer",
+    "escapedName": "portal-fe-devServer",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/portal-fe-devServer/-/portal-fe-devServer-1.0.0.tgz",
+  "_shasum": "b3723c708388cd3d7866d6fce6236b8278c1b337",
+  "_spec": "portal-fe-devServer@^1.0.0",
+  "_where": "/Users/guoyongfeng/Documents/fed/fe-example",
+  "author": {
+    "name": "fallingarrow"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "co-request": "^0.2.0",
+    "iconv-lite": "^0.2.11",
+    "koa": "^1.1.2",
+    "koa-router": "^5.4.0",
+    "koa-send": "^3.2.0",
+    "node-fetch": "^1.3.3"
+  },
+  "deprecated": false,
+  "description": "iuap portal fe dev server",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "portal-fe-devServer",
+  "repository": {
+    "type": "git",
+    "url": "git@git.yonyou.com:iuap_portal/fe_devtools.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
